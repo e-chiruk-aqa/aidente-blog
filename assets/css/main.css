@@ -108,7 +108,7 @@ a { color: inherit; text-decoration: none; }
 }
 .appstore-badge:hover { opacity: 0.85; transform: translateY(-1px); }
 .badge-icon { font-size: 1.8rem; line-height: 1; }
-.badge-text { display: flex; flex-direction: column; line-height: 1.2; }
+.badge-text { display: flex; flex-direction: column; align-items: center; line-height: 1.2; }
 .badge-subtitle { font-size: 0.65rem; opacity: 0.8; letter-spacing: 0.02em; }
 .badge-title { font-size: 1rem; font-weight: 700; letter-spacing: -0.01em; }
 
