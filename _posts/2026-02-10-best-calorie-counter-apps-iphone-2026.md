@@ -39,7 +39,7 @@ Beyond photos, AIDente supports voice input ("I had grilled chicken and rice") a
 - AI portion estimates have some variance for very dense foods
 - Newer app than legacy alternatives
 
-**Pricing:** Free with Pro subscription from $1.99/week
+**Pricing:** Free with Pro subscription from $9.99/month
 
 ## 2. MyFitnessPal — Best Database
 
