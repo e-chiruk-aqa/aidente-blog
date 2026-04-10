@@ -5,6 +5,8 @@ baseurl: ""
 
 app_store_url: "https://apps.apple.com/us/app/aidente-ai-calorie-counter/id6751173116"
 
+google_analytics: G-GFHY8PED40
+
 author:
   name: AIDente Team
 
