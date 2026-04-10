@@ -11,6 +11,8 @@ author:
 social:
   name: AIDente
 
+future: true
+
 markdown: kramdown
 kramdown:
   input: GFM
