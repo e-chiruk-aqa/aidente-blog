@@ -335,7 +335,7 @@ a { color: inherit; text-decoration: none; }
 .post-cta {
   max-width: var(--prose-width);
   margin: 0 auto;
-  background: linear-gradient(135deg, #FF6B35, #FF8C5A);
+  background: linear-gradient(135deg, #A6C408, #BFDF0A);
   border-radius: var(--radius-lg);
   padding: 40px;
   text-align: center;
